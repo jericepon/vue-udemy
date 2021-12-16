@@ -23,5 +23,15 @@
                 "reveal": "silent"
             },
         },
+        {
+            "label": "🎯 preview",
+            "type": "npm",
+            "script": "preview",
+            "group": "build",
+            "presentation": {
+                // Reveal the output only if unrecognized errors occur.
+                "reveal": "silent"
+            },
+        },
     ]
 }
